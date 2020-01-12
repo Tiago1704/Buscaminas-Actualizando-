@@ -1,0 +1,3 @@
+ACTUALMENTE: UNA VERSIÓN.
+
+En la versión uno el juego era un tablero simple, pequeño; una matriz. La función "bombasAlrededor" y "abrirAlrededor" son sacadas de internet. El resto fue una pequeña guía y tipeada por mi.
